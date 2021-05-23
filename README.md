@@ -52,4 +52,24 @@ Diagrama
 ![image](https://user-images.githubusercontent.com/69010141/119248137-31fdc780-bb5d-11eb-8ede-2b8742fb1767.png)
 
 
+Prueba en Postman
 
+![image](https://user-images.githubusercontent.com/69010141/119248612-58713200-bb60-11eb-934a-0eec2a1e39d8.png)
+
+
+{
+    "name": "Marcelo",
+    "email": "marcelo@test.cl",
+    "password": "wsswWW22w",
+    "phones": [
+        {
+            "number": "123456",
+            "citycode": "test",
+            "countrycode": "test"
+        }
+    ]
+}
+
+
+
+  
